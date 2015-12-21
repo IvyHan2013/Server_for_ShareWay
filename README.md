@@ -1,2 +1,2 @@
 # Server_for_ShareWay
-**BE HAPPY**
+**BE NOT HAPPY**
